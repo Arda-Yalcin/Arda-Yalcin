@@ -6,6 +6,11 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
 - 🌱 I’m currently learning **[c#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
 
+## 🌐 Connect with me
+[![Twitter]()
+[![LinkedIn]()
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arda-Yalcin)
+[![Instagram]()
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark)
