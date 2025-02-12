@@ -13,6 +13,8 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arda-Yalcin&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda-Yalcin&theme=dark)
 
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
