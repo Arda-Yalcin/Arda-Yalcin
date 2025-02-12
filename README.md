@@ -15,10 +15,6 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arda-Yalcin)
 
 
-## 🚀 GitHub Profile
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;Open+Source+Contributor"/>
-</p>
 
 ## 📊 GitHub Stats
 <p align="center">
