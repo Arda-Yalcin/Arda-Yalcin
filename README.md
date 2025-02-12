@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;"/>
 </p>
 
-- 🌱 I’m currently learning **[c#]**
+- 🌱 I’m currently learning **[C#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
 
 ## 🌐 Connect with me
