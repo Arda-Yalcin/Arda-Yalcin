@@ -10,10 +10,40 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arda-Yalcin)
 
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark&width=400&height=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark&width=400&height=300)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda-Yalcin&theme=github-dark&area=true&hide_border=true&width=400&height=200)
+## 🚀 GitHub Profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;Open+Source+Contributor"/>
+</p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=radical&width=400&height=200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=radical&width=400&height=200"/>
+</p>
+
+## 🔥 Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Yalcin&theme=radical&hide_border=true&width=400&height=200"/>
+</p>
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arda-Yalcin&theme=radical&margin-w=15&margin-h=15"/>
+</p>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Yalcin&theme=github-dark&area=true&hide_border=true&width=400&height=200"/>
+</p>
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+## 🎶 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default"/>
+</p>
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
