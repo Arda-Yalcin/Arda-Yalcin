@@ -21,10 +21,6 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=radical&width=400&height=200"/>
 </p>
 
-## 🔥 Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Yalcin&theme=radical&hide_border=true&width=400&height=200"/>
-</p>
 
 ## 🏆 Trophies
 <p align="center">
