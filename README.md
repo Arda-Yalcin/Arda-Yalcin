@@ -8,8 +8,8 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/Arda-Yalcin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Arda-Yalcin&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark)
 
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
