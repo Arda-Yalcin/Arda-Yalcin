@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I'm a passionate developer who loves to work with cutting-edge technologies. Always eager to learn and explore new things in the world of software development.
 
+## 🚀 GitHub Profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;Open+Source+Contributor"/>
+</p>
+
 - 🌱 I’m currently learning **[c#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
 
