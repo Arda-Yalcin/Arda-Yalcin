@@ -1,7 +1,5 @@
 # Hi there, I'm [Arda Yalçın] 👋
 
-## 🚀 About Me
-I'm a passionate developer who loves to work with cutting-edge technologies. Always eager to learn and explore new things in the world of software development.
 
 ## 🚀 GitHub Profile
 <p align="center">
