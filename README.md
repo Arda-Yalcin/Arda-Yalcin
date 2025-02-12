@@ -37,9 +37,6 @@ I'm a passionate developer who loves to work with cutting-edge technologies. Alw
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-## 🎶 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default"/>
-</p>
+
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
