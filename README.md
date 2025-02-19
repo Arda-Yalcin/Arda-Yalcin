@@ -40,4 +40,3 @@
 
 
 
-<img src="https://source.unsplash.com/1000x300/?space,stars,galaxy" />
