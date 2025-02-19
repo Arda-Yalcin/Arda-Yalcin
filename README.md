@@ -37,5 +37,5 @@
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
 
-![Snake animation](https://raw.githubusercontent.com/Arda-yalcin/Arda-yalcin/output/github-contribution-grid-snake.svg)
+![Github Contribution Grid Snake](https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg)
 
