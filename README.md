@@ -20,7 +20,6 @@
 </p>
 
 
-[🎮 Oynamak için tıkla!](https://Arda-yalcin.github.io/pong)
 
 ## 📈 Activity Graph
 <p align="center">
