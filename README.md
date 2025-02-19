@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Merhaba!+Ben+Arda!;Kod+yazmak+benim+tutkum!;Open+Source+%E2%9D%A4)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **[C#]**
