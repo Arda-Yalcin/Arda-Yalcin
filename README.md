@@ -7,7 +7,6 @@
 </p>
 
 
-🚀 **Seviye: 7 | EXP: █████████░░░ 78%**
 
 - 🌱 I’m currently learning **[C#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
