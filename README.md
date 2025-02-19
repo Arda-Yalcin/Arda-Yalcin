@@ -33,9 +33,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-![Spotify](https://Arda.vercel.app/api/spotify)
 
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
 
+![Snake animation](https://github.com/Arda-yalcin/Arda-yalcin/blob/output/github-contribution-grid-snake.svg)
 
