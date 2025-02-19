@@ -33,7 +33,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Spotify](https://Arda.vercel.app/api/spotify)
 
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
