@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;"/>
 </p>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arda-yalcin)
+
 
 - 🌱 I’m currently learning **[C#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
@@ -19,7 +19,7 @@
 </p>
 
 
-
+[🎮 Oynamak için tıkla!](https://Arda-yalcin.github.io/pong)
 
 ## 📈 Activity Graph
 <p align="center">
@@ -36,4 +36,8 @@
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
 
 ![Github Contribution Grid Snake](https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg)
+![Matrix Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGliZXJwcG44YjdvZzZ2cG4ybWlzN2Q4bGJzZGtmcGhvdzNsNm5iciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wpoLqr5FT1sY0/giphy.gif)
 
+
+
+<img src="https://source.unsplash.com/1000x300/?space,stars,galaxy" />
