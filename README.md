@@ -5,14 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion!;"/>
 </p>
-[Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Arda-Yalcin)
+
 
 - 🌱 I’m currently learning **[C#]**
 - 📫 How to reach me: **[yalcinarda734@gmail.com]**
-
-## 🌐 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arda-Yalcin)
-
 
 
 ## 📊 GitHub Stats
@@ -40,3 +36,5 @@
 
 ---
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
+
+![Snake animation](https://github.com/Arda-Yalcin/Arda-Yalcin/blob/output/github-contribution-grid-snake.svg)
