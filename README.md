@@ -18,10 +18,7 @@
 </p>
 
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arda-Yalcin&theme=radical&margin-w=15&margin-h=15"/>
-</p>
+
 
 ## 📈 Activity Graph
 <p align="center">
