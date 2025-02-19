@@ -36,7 +36,7 @@
 ⭐️ From [Arda Yalçın](https://github.com/Arda-Yalcin)
 
 ![Github Contribution Grid Snake](https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg)
-![Matrix Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGliZXJwcG44YjdvZzZ2cG4ybWlzN2Q4bGJzZGtmcGhvdzNsNm5iciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wpoLqr5FT1sY0/giphy.gif)
+
 
 
 
