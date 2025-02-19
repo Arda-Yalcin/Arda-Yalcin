@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=radical&width=400&height=200"/>
 </p>
 
-
+![Cyberpunk](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ## 📈 Activity Graph
 <p align="center">
