@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-
 ---
 
 ### 📈 GitHub İstatistiklerim
@@ -29,11 +28,14 @@
 
 ---
 
-
 ### 🔥 Aktiflik Durumu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Yalcin&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation"/>
 </p>
 
 ---
@@ -55,10 +57,3 @@
 ---
 
 <p align="center">⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!</p>
-
-
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-
