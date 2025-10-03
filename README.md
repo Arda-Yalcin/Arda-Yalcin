@@ -57,6 +57,8 @@
 <p align="center">⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!</p>
 
 
-
+<p align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 
