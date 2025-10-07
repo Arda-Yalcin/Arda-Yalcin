@@ -1,6 +1,6 @@
 <h1 align="center">👋 Merhaba! Ben Arda Yalçın</h1>
 <p align="center">
-  💻 Python, C#, HTML, PHP ve C++ geliştiricisiyim <br>
+  💻 C#, HTML ve PHP geliştiricisiyim <br>
   🚀 Yeni teknolojiler öğrenmeye ve açık kaynak projelere katkıda bulunmaya bayılıyorum!
 </p>
 
