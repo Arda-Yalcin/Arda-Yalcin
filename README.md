@@ -58,3 +58,4 @@
 ---
 
 <p align="center">⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!</p>
+<p> i miss nuh</p>
