@@ -1,6 +1,6 @@
 <h1 align="center">👋 Merhaba! Ben Arda Yalçın</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arda+Yalcin;Full+Stack+Developer;React+%7C+Node+%7C+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arda+Yalcin;Full+Stack+Developer;React+%7C+Node+%7C+AI+Enthusiast" />  <br>
   💻 C#, HTML ve PHP geliştiricisiyim <br>
   🚀 Yeni teknolojiler öğrenmeye ve açık kaynak projelere katkıda bulunmaya bayılıyorum!
 </p>
