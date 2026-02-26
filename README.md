@@ -45,6 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=303030&cache_seconds=86400" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=303030&cache_seconds=86400" width="48%" />
+  &token=GITHUB_TOKENIN
 </p>
 
 https://streak-stats.demolab.com?user=Arda-Yalcin
