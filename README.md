@@ -26,29 +26,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=10&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_radius=10&cache_seconds=86400" width="48%" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arda-Yalcin&theme=transparent&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10&cache_seconds=86400" />
-</p>
-
-----------------------------------------------------
-
-## 📈 GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=303030&cache_seconds=86400" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=303030&cache_seconds=86400" width="48%" />
-  &token=GITHUB_TOKENIN
+  https://streak-stats.demolab.com?user=Arda-Yalcin
 </p>
 
-https://streak-stats.demolab.com?user=Arda-Yalcin
+
 
 ---
 
