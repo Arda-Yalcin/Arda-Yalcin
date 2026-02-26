@@ -27,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=303030&cache_seconds=86400" width="48%" />
 </p>
 
+https://streak-stats.demolab.com?user=Arda-Yalcin
+
 ---
 
 ### 🔥 Aktiflik Durumu
