@@ -19,11 +19,6 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
-
-![Streak](https://streak-stats.demolab.com?user=Arda-Yalcin&theme=tokyonight)
----
-
 ### 🔥 Aktiflik Durumu
 
 <p align="center">
