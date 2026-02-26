@@ -21,10 +21,7 @@
 
 ### 📈 GitHub İstatistiklerim
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Arda-Yalcin&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Yalcin&layout=compact&theme=tokyonight&cache_seconds=86400)
-
+![Streak](https://streak-stats.demolab.com?user=Arda-Yalcin&theme=tokyonight)
 ---
 
 ### 🔥 Aktiflik Durumu
